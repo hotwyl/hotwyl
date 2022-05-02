@@ -22,8 +22,8 @@
 
 <div align="center">
 <a href="https://github.com/hotwyl">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=hotwyl&show_icons=true&theme=vision-friendly-dark" alt="hotwyl's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotwyl&layout=compact&theme=vision-friendly-dark" alt="hotwyl's most languages"/></a>
+<img width="360em" src="https://github-readme-stats.vercel.app/api?username=hotwyl&show_icons=true&theme=vision-friendly-dark" alt="hotwyl's stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotwyl&layout=compact&theme=vision-friendly-dark" alt="hotwyl's most languages"/></a>
 </div>
 
 ### Social Links
