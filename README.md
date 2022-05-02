@@ -1,4 +1,4 @@
-### Olá 👋, Eu Sou William Camargo
+### Hi 👋, I'm William Camargo
 
 - 🔭 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP)
 - 🌱 I’m currently learning: Laravel, Vue.JS
@@ -18,7 +18,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
-### GitHub Analytics
+### GitHub Analytics <img src="https://komarev.com/ghpvc/?username=hotwyl&color=yellow" alt="Profile views" />
 
 <div align="center">
 <a href="https://github.com/hotwyl">
