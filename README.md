@@ -1,7 +1,5 @@
-### Hi 👋, I'm William Camargo
+## Hi 👋, I'm William Camargo
 
-- 🔭 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP)
-- 🌱 I’m currently learning: Laravel, Vue.JS
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -11,8 +9,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=007ACC)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
 
 ### GitHub Analytics <img src="https://komarev.com/ghpvc/?username=hotwyl&color=yellow" alt="Profile views" />
@@ -43,7 +43,8 @@
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP)
+- 🌱 I’m currently learning: Laravel, Vue.JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
