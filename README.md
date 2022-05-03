@@ -1,7 +1,22 @@
 ## Hi 👋, I'm William Camargo
+ 😜 About me:
+
+- 💻 I'm web developer since 2018
+- 📝 I'm Graduating in Software Engineering and Marketing
+- 🔥 I’m currently working on Web Develope (HTML, CSS, JavaScript, PHP, BootStrap, SQL, WordPres)
+- 🌱 I’m currently learning: Laravel, Vue.JS
+- 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
+- 🚀 All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
+- 📝 I'm graduated in Technical support
+- ✨ I try to help people who are studying programming or want to learn programming
+- 📫 How to reach me: <a href="#" target="_blank"> LinkedIn </a>
+- ▶️ I regularly post videos on 
+- 👯 I’m looking to collaborate on who want to learn programming
+- ⚡ I’m looking for help with my knowledge and experience
+- 💬 Ask me about marketing and programming
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack (Languages and tools:)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -41,12 +56,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP)
+ 😜 About me:
+
+- 💻 I'm web developer since 2018
+- 📝 I'm Graduating in Software Engineering and Marketing
+- 🔥 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP, BootStrap, WordPres)
 - 🌱 I’m currently learning: Laravel, Vue.JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
+- 🚀 All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
+- 📝 I'm graduated in Technical support
+- ✨ I try to help people who are studying programming or want to learn programming
+- 📫 How to reach me: <a href="#" target="_blank"> LinkedIn </a>
+- ▶️ I regularly post videos on 
+- 👯 I’m looking to collaborate on who want to learn programming
+- ⚡ I’m looking for help with my knowledge and experience
+- 💬 Ask me about marketing and programming
+
+
 -->
