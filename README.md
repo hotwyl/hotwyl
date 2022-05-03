@@ -1,4 +1,5 @@
 ## Hi 👋, I'm William Camargo
+
  😜 About me:
 
 - 💻 I'm web developer since 2018
@@ -6,15 +7,13 @@
 - 🔥 I’m currently working on Web Develope (HTML, CSS, JavaScript, PHP, BootStrap, SQL, WordPres)
 - 🌱 I’m currently learning: Laravel, Vue.JS
 - 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
-- 🚀 All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
-- 📝 I'm graduated in Technical support
+- ▶️ All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
+- 🚀 I'm graduated in Technical support
 - ✨ I try to help people who are studying programming or want to learn programming
 - 📫 How to reach me: <a href="#" target="_blank"> LinkedIn </a>
-- ▶️ I regularly post videos on 
 - 👯 I’m looking to collaborate on who want to learn programming
 - ⚡ I’m looking for help with my knowledge and experience
 - 💬 Ask me about marketing and programming
-
 
 ### 🛠 &nbsp;Tech Stack (Languages and tools:)
 
@@ -28,7 +27,6 @@
 ![MySQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
-
 
 ### GitHub Analytics <img src="https://komarev.com/ghpvc/?username=hotwyl&color=yellow" alt="Profile views" />
 
@@ -50,27 +48,3 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
 </div>
-
-<!--
-**hotwyl/hotwyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 😜 About me:
-
-- 💻 I'm web developer since 2018
-- 📝 I'm Graduating in Software Engineering and Marketing
-- 🔥 I’m currently working on Web Develope (HTML, CSS, SQL, JavaScript, PHP, BootStrap, WordPres)
-- 🌱 I’m currently learning: Laravel, Vue.JS
-- 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
-- 🚀 All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
-- 📝 I'm graduated in Technical support
-- ✨ I try to help people who are studying programming or want to learn programming
-- 📫 How to reach me: <a href="#" target="_blank"> LinkedIn </a>
-- ▶️ I regularly post videos on 
-- 👯 I’m looking to collaborate on who want to learn programming
-- ⚡ I’m looking for help with my knowledge and experience
-- 💬 Ask me about marketing and programming
-
-
--->
