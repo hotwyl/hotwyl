@@ -1,5 +1,3 @@
-## Hi 👋, I'm William Camargo
-
 <h1 align="center">Hi 👋, I'm William Camargo</h1>
 <h3 align="center">A passionate backend developer from Brazilian</h3>
 
