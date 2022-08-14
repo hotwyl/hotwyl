@@ -23,7 +23,7 @@
 - ⚡ I’m looking for help with my knowledge and experience
 - 💬 Ask me about marketing and programming
 - 📝 I regularly write articles on [www.3wonline.com.br](www.3wonline.com.br)
-- 📄 Know about my experiences [github.com/hotwyl](github.com/hotwyl)
+- 📄 Know about my experiences [github.com/hotwyl](github.com)
 - ⚡ Fun fact **Student Marketing and Software Engineering**
 
 <h3 align="left"> 🛠 &nbsp;Tech Stack (Languages and tools:)</h3>
