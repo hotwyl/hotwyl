@@ -12,7 +12,7 @@
 
 - 💻 I'm web developer since 2018
 - 📝 I'm Graduating in Software Engineering and Marketing
-- 🔥 I’m currently working on Web Develope (HTML, CSS, JavaScript, PHP, BootStrap, SQL, WordPres)
+- 🔥 I’m currently working on Web Develope (HTML, CSS, JavaScript, PHP, BootStrap, SQL, WordPress)
 - 🌱 I’m currently learning: Laravel, Vue.JS
 - 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
 - ▶️ All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
