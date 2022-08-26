@@ -13,15 +13,15 @@
 - 💻 I'm web developer since 2018
 - 📝 I'm Graduating in Software Engineering and Marketing
 - 🔥 I’m currently working on Web Develope (PHP, Laravel, Symfony, CodeIgniter, MySQL, Python, WordPress)
-- 🌱 I’m currently learning: Laravel, Vue.JS
+- 🌱 I’m currently learning: data science and automation
 - 🔭 I’m currently working at <a href="#" target="_blank"> 3wonline</a> and <a href="#" target="_blank"> Olha Venda </a>
 - ▶️ All of my projects are available at <a href="#" target="_blank"> Guit Hub </a>
-- 🚀 I'm graduated in Technical support
+- 🚀 I have a degree in System Analysis and Development and Technical Support
 - ✨ I try to help people who are studying programming or want to learn programming
 - 📫 How to reach me: <a href="#" target="_blank"> LinkedIn </a>
-- 👯 I’m looking to collaborate on who want to learn programming
-- ⚡ I’m looking for help with my knowledge and experience
-- 💬 Ask me about marketing and programming
+- 👯 I'm looking to collaborate with anyone who wants to learn programming or develop new solutions with web programming
+- ⚡ I seek help with my knowledge and experience for continuous improvement in solutions and evolution of standards
+- 💬 Ask me about marketing, programming and entrepreneurship
 - 📝 I regularly write articles on [www.3wonline.com.br](www.3wonline.com.br)
 - 📄 Know about my experiences [github.com/hotwyl](github.com)
 - ⚡ Fun fact **Student Marketing and Software Engineering**
