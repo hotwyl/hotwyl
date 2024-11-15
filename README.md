@@ -1,6 +1,6 @@
-# 💻 William Camargo - Engenheiro de Software e Desenvolvedor Web
+# 💻 Engenheiro de Software e Desenvolvedor Web
 
-👋 Olá! Eu sou o William, **Engenheiro de Software**, **Desenvolvedor Web** e **Especialista em Marketing Digital** com foco em **Publicidade e Propaganda**. Sou apaixonado por desafios e tenho uma grande motivação em superá-los, criando soluções ágeis e eficientes.
+👋 Olá! Eu sou **Engenheiro de Software**, **Desenvolvedor Web** e **Especialista em Marketing Digital** com foco em **Publicidade e Propaganda**. Sou apaixonado por desafios e tenho uma grande motivação em superá-los, criando soluções ágeis e eficientes.
 
 ## 🚀 Sobre Mim
 Sou um desenvolvedor com vasta experiência tanto em **Back-End** quanto em **Front-End**, atuando com tecnologias modernas e frameworks robustos, como **PHP, Laravel, Symfony, CodeIgniter, Python, Node.js, Vue.js, Angular.js, MySQL, PostgreSQL e Docker**.
